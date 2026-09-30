@@ -1,0 +1,19 @@
+Country,Mine count,Cumulative capacity,Total weighted ownership,Public Company_weighted_capacity,Public Company_share,Private Company_weighted_capacity,Private Company_share,Foundation or Charitable Institution_weighted_capacity,Foundation or Charitable Institution_share,Metal
+Russia,1,225.0,225.0,225.0,100.0,,,,,nickel
+Indonesia,3,126.8,126.8,110.38,87.05,16.42,12.95,,,nickel
+China,5,121.8,121.8,11.0,9.03,110.8,90.97,,,nickel
+Canada,5,117.1,117.1,117.1,100.0,,,,,nickel
+Brazil,5,101.3,78.1,64.5,82.59,13.6,17.41,,,nickel
+New Caledonia,2,77.9,77.9,26.26,33.72,51.64,66.28,,,nickel
+Philippines,2,50.4,50.4,50.4,100.0,,,,,nickel
+Australia,3,43.6,43.6,43.6,100.0,,,,,nickel
+Finland,2,39.2,39.2,10.1,25.77,29.1,74.23,,,nickel
+South Africa,19,34.6,32.42,30.54,94.21,1.82,5.6,0.06,0.19,nickel
+Colombia,1,34.6,34.6,,,34.6,100.0,,,nickel
+Cuba,1,32.8,32.8,16.4,50.0,16.4,50.0,,,nickel
+Papua New Guinea,1,30.4,30.4,21.72,71.46,8.68,28.54,,,nickel
+Japan,3,30.0,30.0,17.0,56.67,13.0,43.33,,,nickel
+Madagascar,1,26.7,26.7,14.46,54.18,12.23,45.82,,,nickel
+Zambia,2,20.3,20.3,18.4,90.62,1.9,9.38,,,nickel
+Zimbabwe,3,11.8,11.8,11.8,100.0,,,,,nickel
+USA,2,9.5,9.5,9.5,100.0,,,,,nickel

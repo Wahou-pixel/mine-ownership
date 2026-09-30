@@ -1,0 +1,69 @@
+Product Type,Property,Property ID,Country/Region, Equity Owner(s) (Ownership %), Percent Lower (%),LCE Production (000 tonnes),Cumulative LCE Production (000 tonnes), Labor ($/LCE), Energy ($/LCE), Reagents ($/LCE), Other Onsite ($/LCE), Offsite ($/LCE), Seaborne Shipment ($/LCE), Royalty ($/LCE), Total Cash Cost ($/LCE)
+Total and Weighted Average,,,,,,0.0,0.0,663.742209719394,713.6475440665571,707.0937463208735,2034.414331977268,345.3387310077261,182.07833652286303,617.5024010318564,1146.12
+Concentrate,Yichun,32105.0,China,Yichun Tantalum Co Ltd (100.00),0.0,15.4,15.4,118.65,299.88,90.21,390.74,119.84,0.0,126.81,1146.12
+Concentrate,Cachoeira,70310.0,Brazil,Companhia Brasileira de Lítio (100.00),1.02,0.8,16.2,345.48,206.09,0.0,695.14,255.07,0.0,39.58,1541.37
+Concentrate,Jiajika,38547.0,China,YOUNGY Co. Ltd. (100.00),1.07,27.5,43.7,215.51,459.25,105.54,1082.08,86.18,0.0,238.97,2187.52
+Concentrate,Wodgina,78512.0,Australia,"Albemarle Corp. (50.00)
+Mineral Resources Ltd. (50.00)",2.88,58.8,102.5,384.22,339.84,102.67,649.94,214.19,266.18,326.13,2283.16
+Concentrate,Greenbushes,37326.0,Australia,"Albemarle Corp. (49.00)
+Tianqi Lithium Corp. (26.01)
+IGO Ltd. (24.99)",6.76,200.7,303.2,566.8,260.0,42.64,756.55,173.14,303.03,237.17,2339.32
+Concentrate,Lijiagou,55333.0,China,Sichuan Dexin Mining Resources Co Ltd. (100.00),19.98,23.8,327.0,355.6,378.97,57.15,1102.62,606.52,0.0,226.34,2727.21
+Concentrate,Mt Holland - Lithium,78244.0,Australia,"Wesfarmers Ltd. (50.00)
+Sociedad Química y Minera de Chile SA (50.00)",21.55,20.3,347.3,993.36,608.23,51.54,795.38,74.94,0.0,326.95,2850.41
+Concentrate,Kamativi,91065.0,Zimbabwe,"Sichuan Yahua Industrial Group Co. Ltd. (60.00)
+Private Interest (40.00)",22.88,41.4,388.7,471.91,605.85,55.68,609.57,1051.18,257.33,100.47,3152.0
+Concentrate,Sabi Star,63172.0,Zimbabwe,"Chengxin Lithium Group Co. Ltd. (51.00)
+Max Mind Investment Ltd (49.00)",25.61,21.7,410.4,1025.48,500.02,36.21,579.86,682.32,353.83,100.47,3278.19
+Concentrate,Bikita,38557.0,Zimbabwe,Bikita Minerals Pty. Ltd. (100.00),27.04,57.1,467.5,513.07,421.95,264.01,1270.35,423.44,321.66,100.5,3314.97
+Concentrate,Arcadia,77458.0,Zimbabwe,"Zhejiang Huayou Cobalt Co. Ltd. (87.00)
+Private Interest (13.00)",30.8,66.8,534.3,683.06,572.92,108.44,1085.13,604.28,276.04,97.28,3427.15
+Concentrate,Goulamina,77208.0,Mali,Ganfeng Lithium Group Co. Ltd. (100.00),35.21,52.6,586.9,143.47,549.6,267.29,1097.46,1163.89,202.19,359.64,3783.55
+Concentrate,Pilgangoora,51956.0,Australia,PLS Group Ltd. (100.00),38.67,95.2,682.1,792.63,638.35,93.58,1362.17,253.77,395.3,272.9,3808.71
+Concentrate,Yelonggou,89585.0,China,Chengxin Lithium Group Co. Ltd. (75.00),44.95,9.8,691.9,400.75,499.91,224.78,2133.43,513.21,0.0,226.34,3998.41
+Concentrate,Alvarroes,79165.0,Portugal,Grupo Mota (100.00),45.59,0.7,692.6,1716.85,782.96,0.0,977.82,556.15,0.0,0.0,4033.78
+Concentrate,Grota do Cirilo,82881.0,Brazil,Sigma Lithium Corp. (100.00),45.64,31.2,723.8000000000001,777.84,676.99,0.0,1608.67,395.69,425.75,168.33,4053.28
+Concentrate,Mount Marion,37174.0,Australia,"Mineral Resources Ltd. (50.00)
+Ganfeng Lithium Group Co. Ltd. (50.00)",47.69,64.5,788.3000000000001,996.87,363.91,129.36,1320.88,672.81,251.68,352.47,4087.97
+Chloride,Salar del Hombre Muerto,37612.0,Argentina,Rio Tinto Group (100.00),51.94,1.7,790.0000000000001,1131.54,167.04,788.62,1335.36,291.63,186.49,317.12,4217.81
+Concentrate,Xiangyuan,89287.0,China,Zijin Mining Group Co. Ltd. (66.00),52.05,3.3,793.3000000000001,2044.5,552.53,0.0,1705.81,218.86,0.0,144.84,4666.54
+Concentrate,Kathleen Valley,77779.0,Australia,Liontown Ltd. (100.00),52.27,45.6,838.9000000000001,1377.82,886.02,338.99,798.61,822.42,485.26,333.31,5042.43
+Concentrate,Bougouni,78022.0,Mali,"Government of Mali (35.00)
+Hainan Mining Co. Ltd. (33.15)
+Kodal Minerals PLC (31.85)",55.27,15.4,854.3000000000001,531.48,1475.96,0.0,1611.08,1269.7,220.57,250.22,5359.01
+Concentrate,North American Lithium,36505.0,Canada,Elevra Lithium Ltd. (100.00),56.29,26.4,880.7,2169.13,861.15,196.5,1679.17,192.11,221.66,41.07,5360.78
+Carbonate,Cachoeira,70310.0,Brazil,Companhia Brasileira de Lítio (100.00),58.03,1.0,881.7,1315.65,871.97,296.09,3059.62,34.89,0.0,99.52,5677.75
+Carbonate,Zhabuye,38538.0,China,"Xizang Mineral Development Co. LTD (80.00)
+Tianqi Lithium Corp. (20.00)",58.09,6.9,888.6,708.3,872.98,911.74,2678.96,219.54,0.0,829.96,6221.48
+Carbonate,East Taijinair,38543.0,China,Western Mining Group Co. Ltd. (100.00),58.55,24.9,913.5,535.48,1036.2,1107.53,2662.07,115.88,0.0,918.7,6375.86
+Carbonate,Chaerhan Lake,38549.0,China,Qinghai Salt Lake Industry Co.Ltd. (100.00),60.19,39.8,953.3,291.32,1043.98,1267.74,2926.9,80.5,0.0,926.78,6537.22
+Carbonate,Qinghai Yiliping,88897.0,China,"China Minmetals Corp. (51.00)
+Ganfeng Lithium Group Co. Ltd. (49.00)",62.81,9.5,962.8,560.62,1033.95,1905.7,2303.89,36.66,0.0,927.57,6768.4
+Carbonate,Qarhan Lake,85124.0,China,Zangge Mining Company Ltd. (100.00),63.43,11.5,974.3,580.04,1249.31,1817.24,2145.79,36.66,0.0,941.13,6770.18
+Hydroxide,Cachoeira,70310.0,Brazil,Companhia Brasileira de Lítio (100.00),64.19,0.4,974.6999999999999,1582.09,1048.56,356.05,3679.24,40.89,0.0,119.66,6826.5
+Carbonate,West Taijinair,38542.0,China,,64.22,49.6,1024.3,301.87,1175.12,1496.81,2848.67,116.23,0.0,927.26,6865.95
+Hydroxide,Lakkor Tso Salt Lake,88960.0,China,"Zijin Mining Group Co. Ltd. (70.00)
+Tibet Shengyuan Mining Group Co. Ltd. (30.00)",67.48,10.6,1034.8999999999999,770.43,701.62,817.86,4248.78,131.15,0.0,359.59,7029.43
+Concentrate,Mt Cattlin,30688.0,Australia,Rio Tinto Group (100.00),68.18,4.0,1038.8999999999999,2720.0,728.8,0.0,2800.04,322.0,180.29,364.98,7116.11
+Carbonate,Salar de Olaroz,37059.0,Argentina,"Rio Tinto Group (66.50)
+Toyota Tsusho Corp. (25.00)
+Jujuy Energia y Mineria Sociedad del Estado (8.50)",68.44,27.8,1066.6999999999998,1122.64,323.86,3099.25,1167.03,40.93,65.51,1370.45,7189.67
+Carbonate,Tres Quebradas,78031.0,Argentina,Zijin Mining Group Co. Ltd. (100.00),70.27,5.0,1071.6999999999998,781.45,559.44,2899.01,2150.67,286.38,35.17,486.15,7198.27
+Carbonate,Cauchari-Olaroz,37624.0,Argentina,Jujuy Energia y Mineria Sociedad del Estado (8.50),70.6,33.8,1105.4999999999998,874.04,480.18,2618.46,2704.04,292.83,43.21,278.97,7291.74
+Carbonate,Sal de Oro,90522.0,Argentina,Posco Holdings Inc. (100.00),72.83,17.9,1123.3999999999999,938.32,933.2,2329.03,2504.46,149.57,75.37,373.96,7303.91
+Carbonate,Salar del Hombre Muerto,37612.0,Argentina,Rio Tinto Group (100.00),74.01,29.9,1153.3,445.16,667.74,3085.97,2679.84,102.14,65.32,336.57,7382.73
+Carbonate,Salar del Rincon,36162.0,Argentina,Rio Tinto Group (100.00),75.98,2.0,1155.3,1716.02,559.88,2671.71,1891.97,289.91,45.22,373.96,7548.68
+Chloride,Mariana,37586.0,Argentina,Ganfeng Lithium Group Co. Ltd. (100.00),76.11,3.8,1159.1,777.23,1041.8,2572.52,2531.51,159.4,139.47,359.75,7581.68
+Carbonate,Salar de Atacama,52581.0,Chile,Albemarle Corp. (100.00),76.36,71.7,1230.8,326.51,765.27,1101.57,3911.76,70.86,42.51,1736.19,7954.66
+Carbonate,Salar de Atacama,37384.0,Chile,Sociedad Química y Minera de Chile SA (100.00),81.08,178.6,1409.3999999999999,208.65,898.71,1258.94,3945.6,70.86,50.24,1624.27,8057.26
+Carbonate,Cuenca Centenario-Ratones,52372.0,Argentina,Eramet SA (100.00),92.85,6.7,1416.1,1816.29,1078.42,3018.11,2156.93,342.21,32.84,373.96,8818.78
+Carbonate,Silver Peak,37600.0,USA,Albemarle Corp. (100.00),93.28,3.4,1419.5,2581.88,517.28,2968.98,2948.39,276.08,0.0,0.0,9292.61
+Hydroxide,Mt Holland - Lithium,78244.0,Australia,"Wesfarmers Ltd. (50.00)
+Sociedad Química y Minera de Chile SA (50.00)",93.51,17.0,1436.5,2458.35,1604.31,959.28,3287.97,11.7,457.63,730.15,9509.4
+Hydroxide,Salar de Atacama,37384.0,Chile,Sociedad Química y Minera de Chile SA (100.00),94.63,30.5,1467.0,606.03,1924.33,993.54,4376.11,80.91,57.37,1902.59,9940.88
+Hydroxide,Wodgina,78512.0,Australia,"Albemarle Corp. (50.00)
+Mineral Resources Ltd. (50.00)",96.64,43.6,1510.6,1445.85,1378.91,856.98,4801.99,1447.57,45.45,856.97,10833.71
+Hydroxide,Greenbushes,37326.0,Australia,"Albemarle Corp. (49.00)
+Tianqi Lithium Corp. (26.01)
+IGO Ltd. (24.99)",99.51,7.5,1518.1,2757.02,5183.01,1154.73,6423.33,98.12,457.63,665.15,16738.99
+"*Figures pre-2025 are based on reported/actual data where available. Figures from 2025 and later are based on S&P Global Market Intelligence's estimates and forecasts. For Market Intelligence's Constant scenario, all forecasts for prices are in constant 2024 US dollars (e.g. wage rates, electricity prices, reagent or fuel costs and metal prices).",,,,,,0.0,1518.1,,,,,,,,

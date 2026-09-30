@@ -1,0 +1,11 @@
+Country,Mine count,Cumulative capacity,Total owners,Private Company_count,Private Company_share,Public Company_count,Public Company_share,Metal
+Australia,7,557.2,12,,,12.0,100.0,lithium
+Chile,1,280.79999999999995,2,,,2.0,100.0,lithium
+China,12,232.6,14,5.0,35.71,9.0,64.29,lithium
+Zimbabwe,4,187.0,7,4.0,57.14,3.0,42.86,lithium
+Argentina,8,128.6,10,2.0,20.0,8.0,80.0,lithium
+Mali,2,68.0,4,1.0,25.0,3.0,75.0,lithium
+Brazil,2,33.4,2,1.0,50.0,1.0,50.0,lithium
+Canada,1,26.4,1,,,1.0,100.0,lithium
+USA,1,3.4,1,,,1.0,100.0,lithium
+Portugal,1,0.7,1,1.0,100.0,,,lithium

@@ -1,0 +1,31 @@
+Flake Size,Property,Property ID,Country/Region, Equity Owner(s) (Ownership %), Percent Lower (%),Production (000 tonnes) ,Cumulative Production (000 tonnes) , Labor ($/tonne), Energy ($/tonne), Reagents ($/tonne), Other Onsite ($/tonne), Offsite ($/tonne), Seaborne Shipment ($/tonne), Royalty ($/tonne), Total Cash Cost ($/tonne)
+Total and Weighted Average,,,,,,0.0,0.0,81.58692482873765,70.27272824634474,16.391104651380967,125.1575996557758,49.16964469970325,0.0,14.60488628166724,225.72
+Medium,Yunshan,93710.0,China,China Minmetals Corp. (100.00),0.0,189.5,189.5,42.23,71.56,9.24,79.4,0.0,0.0,23.29,225.72
+Medium,Beishan,89685.0,China,China Graphite Group Ltd. (100.00),52.86,51.0,240.5,42.0,68.69,12.68,103.94,0.0,0.0,5.98,233.29
+Fines,Balama,61626.0,Mozambique,"Syrah Resources Ltd. (95.00)
+Mozambique (5.00)",67.09,49.8,290.3,58.88,20.2,8.28,120.82,287.38,0.0,6.46,502.9
+Jumbo,Balama,61626.0,Mozambique,"Syrah Resources Ltd. (95.00)
+Mozambique (5.00)",80.98,8.1,298.40000000000003,58.88,20.2,8.28,120.82,287.38,0.0,7.31,503.75
+Fines,Pedra Azul,77115.0,Brazil,Nacional de Grafite Ltda. (100.00),83.25,1.9,300.3,213.08,68.51,58.27,220.28,0.0,0.0,1.81,563.91
+Medium,Pedra Azul,77115.0,Brazil,Nacional de Grafite Ltda. (100.00),83.77,11.2,311.5,213.08,68.51,58.27,220.28,0.0,0.0,1.96,564.06
+Jumbo,Pedra Azul,77115.0,Brazil,Nacional de Grafite Ltda. (100.00),86.91,11.2,322.7,213.08,68.51,58.27,220.28,0.0,0.0,2.98,565.08
+Super Jumbo,Pedra Azul,77115.0,Brazil,Nacional de Grafite Ltda. (100.00),90.04,6.9,329.59999999999997,213.08,68.51,58.27,220.28,0.0,0.0,4.46,566.56
+Fines,Salto Da Divisa,77113.0,Brazil,Nacional de Grafite Ltda. (100.00),91.96,0.8,330.4,112.32,121.82,66.31,290.6,55.35,0.0,0.55,647.86
+Medium,Salto Da Divisa,77113.0,Brazil,Nacional de Grafite Ltda. (100.00),92.18,2.1,332.5,112.32,121.82,66.31,290.6,55.35,0.0,0.59,647.91
+Jumbo,Salto Da Divisa,77113.0,Brazil,Nacional de Grafite Ltda. (100.00),92.77,3.0,335.5,112.32,121.82,66.31,290.6,55.35,0.0,0.9,648.22
+Super Jumbo,Salto Da Divisa,77113.0,Brazil,Nacional de Grafite Ltda. (100.00),93.59,1.9,337.4,112.32,121.82,66.31,290.6,55.35,0.0,1.35,648.66
+Medium,Vatomina,76407.0,Madagascar,"Tirupati Graphite PLC (98.00)
+Private Interest (2.00)",94.14,1.7,339.09999999999997,67.24,118.61,21.8,712.94,12.48,0.0,4.44,937.51
+Large,Vatomina,76407.0,Madagascar,"Tirupati Graphite PLC (98.00)
+Private Interest (2.00)",94.61,1.9,340.99999999999994,67.24,118.61,21.8,712.94,12.48,0.0,5.8,938.87
+Jumbo,Vatomina,76407.0,Madagascar,"Tirupati Graphite PLC (98.00)
+Private Interest (2.00)",95.14,1.2,342.19999999999993,67.24,118.61,21.8,712.94,12.48,0.0,6.33,939.4
+Fines,Traelen,83203.0,Norway,Mineral Commodities Ltd. (100.00),95.48,5.2,347.3999999999999,511.2,212.74,20.47,250.59,12.76,0.0,0.49,1008.26
+Medium,Traelen,83203.0,Norway,Mineral Commodities Ltd. (100.00),96.93,2.7,350.0999999999999,511.2,212.74,20.47,250.59,12.76,0.0,1.03,1008.79
+Large,Kropfmuehl,67003.0,Germany,AMG Critical Materials NV (100.00),97.67,0.4,350.4999999999999,614.48,151.0,1.64,246.84,15.06,0.0,0.39,1029.42
+Jumbo,Kropfmuehl,67003.0,Germany,AMG Critical Materials NV (100.00),97.79,0.1,350.5999999999999,614.48,151.0,1.64,246.84,15.06,0.0,0.49,1029.52
+Fines,Lac des Iles,64090.0,Canada,Northern Graphite Corp. (100.00),97.82,2.8,353.3999999999999,447.05,197.38,50.55,363.16,49.16,0.0,0.5,1107.8
+Medium,Lac des Iles,64090.0,Canada,Northern Graphite Corp. (100.00),98.6,1.4,354.7999999999999,447.05,197.38,50.55,363.16,49.16,0.0,1.2,1108.5
+Large,Lac des Iles,64090.0,Canada,Northern Graphite Corp. (100.00),99.0,1.9,356.6999999999999,447.05,197.38,50.55,363.16,49.16,0.0,1.4,1108.7
+Jumbo,Lac des Iles,64090.0,Canada,Northern Graphite Corp. (100.00),99.52,1.7,358.39999999999986,447.05,197.38,50.55,363.16,49.16,0.0,1.75,1109.05
+"*Figures pre-2025 are based on reported/actual data where available. Figures from 2025 and later are based on S&P Global Market Intelligence's estimates and forecasts. For Market Intelligence's Constant scenario, all forecasts for prices are in constant 2024 US dollars (e.g. wage rates, electricity prices, reagent or fuel costs and metal prices).",,,,,,0.0,358.39999999999986,,,,,,,,

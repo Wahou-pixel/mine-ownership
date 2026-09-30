@@ -1,0 +1,55 @@
+Property,Property ID,Owner,KeyInstn,Equity Ownership (%),Company type,Owner country,Parent Company Name,Parent Company Country,Parent company KeyInstn,Parent company type,Ultimate Parent Company Name,Ultimate Parent Company Country,Ultimate Parent company KeyInstn,Ultimate Parent company type,Percent Owned All-Insitutions,Insitutions- Banks/ Investment banks,Charitable Foundations,Corporate Pensions sponsors,Educational/cultural endowments,Family Offices/Trusts,Gov pensions sponsors,Insurance companies,Investment manager,REIT,Unclassified,Union Pensions sponsors,Hedge Fund Managers <5% stake,Soverign Welth Funds <5% stake,VC/PE firms <5% stake,Insiders,Strategic Hedge Funds Managers >=5% stake,Strategic VC/PE firms >=5% stake,Sovereign Wealth Funds >=5% stake,Strategic company controlled foundations,Strategic ESOP,Strategic State Owner,Strategic Corporation (Private),Strategic Corporation (Public)
+Alvarroes,79165,Grupo Mota,7139357,100,Private Company,Portugal,,,,#INVALID COMPANY ID,,,,Public Company,,,,,,,,,,,,,,,,,,,,,,,,
+Arcadia,77458,Private Interest,4353456,13,Private Company,China,,,,#INVALID COMPANY ID,,,,Public Company,,,,,,,,,,,,,,,,,,,,,,,,
+Arcadia,77458,Zhejiang Huayou Cobalt Co. Ltd.,4649906,87,Public Company,China,,China,4683923,Private Company,"Zhejiang Huayou Holding Group Co., Ltd.",China,4683923,Private Company,21.79,5.23,,,,,,0.44,14.62,,0,,,1.51,0,4.44,,,,,,,20.31,
+Bikita,38557,Bikita Minerals Pty. Ltd.,105829537,100,Private Company,Zimbabwe,,Hong Kong,9148877,Private Company,China Nonferrous Metals Mining Group Company Limited,China,138704909,Private Company,,,,,,,,,,,,,,,,,,,,,,,,
+Bougouni,78022,Government of Mali,142493689,35,Private Company,Mali,,,,#INVALID COMPANY ID,,,,Public Company,,,,,,,,,,,,,,,,,,,,,,,,
+Bougouni,78022,Hainan Mining Co. Ltd.,4511853,33.15,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,2.51,0.53,,,,,,,1.98,,,,,,,0.76,,,,,,,77.13,
+Bougouni,78022,Kodal Minerals PLC,4533605,31.85,Public Company,United Kingdom,,,,#INVALID COMPANY ID,,,,Public Company,53.34,2.91,,,,,,0.02,49.64,,,,0.02,,0.75,3.37,,,,,,,9.63,14.79
+Cachoeira,70310,Companhia Brasileira de Lítio,7136761,100,Private Company,Brazil,,,,#INVALID COMPANY ID,,,,Public Company,,,,,,,,,,,,,,,,,,,,,,,,
+Cauchari-Olaroz,37624,Jujuy Energia y Mineria Sociedad del Estado,4351486,8.5,Private Company,Argentina,,,,#INVALID COMPANY ID,,,,Public Company,,,,,,,,,,,,,,,,,,,,,,,,
+Chaerhan Lake,38549,Qinghai Salt Lake Industry Co.Ltd.,4353586,100,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,22.49,8.3,,,,,,,14.19,,0,,0,,,0,,7.68,,,,,34.67,
+Cuenca Centenario-Ratones,52372,Eramet SA,4350028,100,Public Company,France,,,,#INVALID COMPANY ID,,,,Public Company,14.11,0,,,,,,,14.1,,,,0.01,,,0.17,,27.09,,,1.57,,4.75,
+East Taijinair,38543,Western Mining Group Co. Ltd.,10355625,100,Private Company,China,,China,111774141,Government Institution,Qinghai State Owned Assets Supervision & Administration Commission,China,111774141,Government Institution,,,,,,,,,,,,,,,,,,,,,,,,
+Goulamina,77208,Ganfeng Lithium Group Co. Ltd.,4361422,100,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,18.48,4.05,,,,0,,,14.28,,0,,,0.14,0.01,26.68,,,,,0.34,,,
+Greenbushes,37326,Albemarle Corp.,4121019,49,Public Company,USA,,,,#INVALID COMPANY ID,,,,Public Company,94.3,5.88,0,0.01,,0.41,1.2,0.06,77.45,,0.05,0,8.05,1.16,0.03,0.23,,,,,,0.11,,
+Greenbushes,37326,IGO Ltd.,4351204,24.99,Public Company,Australia,,,,#INVALID COMPANY ID,,,,Public Company,53.98,,,,,0.16,0.52,,49.14,,,,0.18,3.98,0.01,9.18,,,,,,,2.03,
+Greenbushes,37326,Tianqi Lithium Corp.,4365897,26.01,Public Company,China,,China,4357834,Private Company,"Chengdu Tianqi Industry Group Co., Ltd.",China,4357834,Private Company,23.26,7.15,,,,,,,15.5,,0,,0.59,0.02,,4.04,,,,,,,24.33,0.65
+Grota do Cirilo,82881,Sigma Lithium Corp.,7941731,100,Public Company,Canada,,,,#INVALID COMPANY ID,,,,Public Company,32.95,2.33,,,,0.38,0.01,,20.23,,,,9.56,,0.45,0.58,,42.86,,,,,2.81,
+Jiajika,38547,YOUNGY Co. Ltd.,4991303,100,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,9.36,3.76,,,,,,,5.6,,,,,,,2.56,,,,,,,24.63,
+Kamativi,91065,Private Interest,4353456,40,Private Company,China,,,,#INVALID COMPANY ID,,,,Public Company,,,,,,,,,,,,,,,,,,,,,,,,
+Kamativi,91065,Sichuan Yahua Industrial Group Co. Ltd.,4986961,60,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,18.06,0,,,,,,,14.27,,,,,3.79,,16.6,,,,,0.87,,,
+Kathleen Valley,77779,Liontown Ltd.,4351851,100,Public Company,Australia,,,,#INVALID COMPANY ID,,,,Public Company,27.78,5.97,,,,,0.7,,20,,,,0,1.11,,11.19,,,,,,2.15,18.64,
+Lakkor Tso Salt Lake,88960,Tibet Shengyuan Mining Group Co. Ltd.,22790587,30,Private Company,China,,,,#INVALID COMPANY ID,,,,Public Company,,,,,,,,,,,,,,,,,,,,,,,,
+Lakkor Tso Salt Lake,88960,Zijin Mining Group Co. Ltd.,4355642,70,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,31.92,2.34,,,,,0.02,,27.82,,0.02,,0.06,1.62,0.04,0.09,,,,,0.16,,24,
+Lijiagou,55333,Sichuan Dexin Mining Resources Co Ltd.,4517340,100,Private Company,China,,,,#INVALID COMPANY ID,,,,Public Company,,,,,,,,,,,,,,,,,,,,,,,,
+Mariana,37586,Ganfeng Lithium Group Co. Ltd.,4361422,100,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,18.48,4.05,,,,0,,,14.28,,0,,,0.14,0.01,26.68,,,,,0.34,,,
+Mount Marion,37174,Ganfeng Lithium Group Co. Ltd.,4361422,50,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,18.48,4.05,,,,0,,,14.28,,0,,,0.14,0.01,26.68,,,,,0.34,,,
+Mount Marion,37174,Mineral Resources Ltd.,4352438,50,Public Company,Australia,,,,#INVALID COMPANY ID,,,,Public Company,52.97,7.99,,,,,9.35,,30.75,,,,-0.06,4.92,0.01,10.64,,,,,,,1.98,
+Mt Cattlin,30688,Rio Tinto Group,4149660,100,Public Company,United Kingdom,,,,#INVALID COMPANY ID,,,,Public Company,71.76,3.72,0.17,0.91,,0.15,4.42,1.27,57.37,,0.2,,0.83,2.56,0.15,0.02,,,,,0.44,0.16,11.23,0.07
+Mt Holland - Lithium,78244,Sociedad Química y Minera de Chile SA,4354366,50,Public Company,Chile,,,,#INVALID COMPANY ID,,,,Public Company,34.98,1.8,,6.68,,0.02,0.37,,23.59,,0.01,0.02,1.55,0.87,0.07,,,,,,,,26.12,22.16
+Mt Holland - Lithium,78244,Wesfarmers Ltd.,4181751,50,Public Company,Australia,,,,#INVALID COMPANY ID,,,,Public Company,35.03,0.24,0,,,0.24,3.04,0.02,29.74,,0.01,,0.01,1.71,0.03,0.32,,,,,,,,
+North American Lithium,36505,Elevra Lithium Ltd.,4349737,100,Public Company,Australia,,,,#INVALID COMPANY ID,,,,Public Company,68.45,9.62,,,,0,0.71,,57.39,,,,0.73,,,1.94,,7.41,,,,,1.01,
+Pilgangoora,51956,PLS Group Ltd.,4364524,100,Public Company,Australia,,,,#INVALID COMPANY ID,,,,Public Company,68.52,10.62,,,,,14.49,,41.83,,,,0.12,1.43,0.05,0.1,,,,,,,,6.82
+Qarhan Lake,85124,Zangge Mining Company Ltd.,4993645,100,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,17.03,2.14,,,,,,,13.55,,0,,,1.34,,6.42,,,,,0.53,,23.11,26.82
+Qinghai Yiliping,88897,China Minmetals Corp.,4331450,51,Private Company,China,,China,4649432,Government Institution,State-owned Assets Supervision and Administration Commission of the State Counci,China,4649432,Government Institution,,,,,,,,,,,,,,,,,,,,,,,,
+Qinghai Yiliping,88897,Ganfeng Lithium Group Co. Ltd.,4361422,49,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,18.48,4.05,,,,0,,,14.28,,0,,,0.14,0.01,26.68,,,,,0.34,,,
+Sabi Star,63172,Chengxin Lithium Group Co. Ltd.,4984938,51,Public Company,China,,China,5227652,Private Company,"Shenzhen Chengtun Industrial Development Co., Ltd.",China,7755796,Private Company,18.48,2.54,,,,,,,14.39,,,,,,1.55,3.1,,,,,,,24.68,5.34
+Sabi Star,63172,Max Mind Investment Ltd,10495545,49,Private Company,Hong Kong,,China,4984938,Public Company,"Shenzhen Chengtun Industrial Development Co., Ltd.",China,7755796,Private Company,,,,,,,,,,,,,,,,,,,,,,,,
+Sal de Oro,90522,Posco Holdings Inc.,4233782,100,Public Company,South Korea,,,,#INVALID COMPANY ID,,,,Public Company,36.24,3.17,,,2.62,0.04,10.11,,20.22,,0.01,,0.05,,0.02,0.03,,,,,1.72,,,
+Salar de Atacama,37384,Sociedad Química y Minera de Chile SA,4354366,100,Public Company,Chile,,,,#INVALID COMPANY ID,,,,Public Company,34.98,1.8,,6.68,,0.02,0.37,,23.59,,0.01,0.02,1.55,0.87,0.07,,,,,,,,26.12,22.16
+Salar de Atacama,52581,Albemarle Corp.,4121019,100,Public Company,USA,,,,#INVALID COMPANY ID,,,,Public Company,94.3,5.88,0,0.01,,0.41,1.2,0.06,77.45,,0.05,0,8.05,1.16,0.03,0.23,,,,,,0.11,,
+Salar de Olaroz,37059,Jujuy Energia y Mineria Sociedad del Estado,4351486,8.5,Private Company,Argentina,,,,#INVALID COMPANY ID,,,,Public Company,,,,,,,,,,,,,,,,,,,,,,,,
+Salar de Olaroz,37059,Rio Tinto Group,4149660,66.5,Public Company,United Kingdom,,,,#INVALID COMPANY ID,,,,Public Company,71.76,3.72,0.17,0.91,,0.15,4.42,1.27,57.37,,0.2,,0.83,2.56,0.15,0.02,,,,,0.44,0.16,11.23,0.07
+Salar de Olaroz,37059,Toyota Tsusho Corp.,4162612,25,Public Company,Japan,,,,#INVALID COMPANY ID,,,,Public Company,43.03,7.86,,0.39,,,0.29,0,30.26,,3.1,,0.07,1.07,0.01,0.04,,,,,,,,1.03
+Salar del Hombre Muerto,37612,Rio Tinto Group,4149660,100,Public Company,United Kingdom,,,,#INVALID COMPANY ID,,,,Public Company,71.76,3.72,0.17,0.91,,0.15,4.42,1.27,57.37,,0.2,,0.83,2.56,0.15,0.02,,,,,0.44,0.16,11.23,0.07
+Salar del Rincon,36162,Rio Tinto Group,4149660,100,Public Company,United Kingdom,,,,#INVALID COMPANY ID,,,,Public Company,71.76,3.72,0.17,0.91,,0.15,4.42,1.27,57.37,,0.2,,0.83,2.56,0.15,0.02,,,,,0.44,0.16,11.23,0.07
+Silver Peak,37600,Albemarle Corp.,4121019,100,Public Company,USA,,,,#INVALID COMPANY ID,,,,Public Company,94.3,5.88,0,0.01,,0.41,1.2,0.06,77.45,,0.05,0,8.05,1.16,0.03,0.23,,,,,,0.11,,
+Tres Quebradas,78031,Zijin Mining Group Co. Ltd.,4355642,100,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,31.92,2.34,,,,,0.02,,27.82,,0.02,,0.06,1.62,0.04,0.09,,,,,0.16,,24,
+Wodgina,78512,Albemarle Corp.,4121019,50,Public Company,USA,,,,#INVALID COMPANY ID,,,,Public Company,94.3,5.88,0,0.01,,0.41,1.2,0.06,77.45,,0.05,0,8.05,1.16,0.03,0.23,,,,,,0.11,,
+Wodgina,78512,Mineral Resources Ltd.,4352438,50,Public Company,Australia,,,,#INVALID COMPANY ID,,,,Public Company,52.97,7.99,,,,,9.35,,30.75,,,,-0.06,4.92,0.01,10.64,,,,,,,1.98,
+Xiangyuan,89287,Zijin Mining Group Co. Ltd.,4355642,66,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,31.92,2.34,,,,,0.02,,27.82,,0.02,,0.06,1.62,0.04,0.09,,,,,0.16,,24,
+Yelonggou,89585,Chengxin Lithium Group Co. Ltd.,4984938,75,Public Company,China,,China,5227652,Private Company,"Shenzhen Chengtun Industrial Development Co., Ltd.",China,7755796,Private Company,18.48,2.54,,,,,,,14.39,,,,,,1.55,3.1,,,,,,,24.68,5.34
+Yichun,32105,Yichun Tantalum Co Ltd,4500518,100,Private Company,China,,,,#INVALID COMPANY ID,,,,Public Company,,,,,,,,,,,,,,,,,,,,,,,,
+Zhabuye,38538,Tianqi Lithium Corp.,4365897,20,Public Company,China,,China,4357834,Private Company,"Chengdu Tianqi Industry Group Co., Ltd.",China,4357834,Private Company,23.26,7.15,,,,,,,15.5,,0,,0.59,0.02,,4.04,,,,,,,24.33,0.65
+Zhabuye,38538,Xizang Mineral Development Co. LTD,4354854,80,Public Company,China,,,,#INVALID COMPANY ID,,,,Public Company,18.84,2.03,,,,,,,16.81,,,,,,,0.02,,,,,,,21.76,

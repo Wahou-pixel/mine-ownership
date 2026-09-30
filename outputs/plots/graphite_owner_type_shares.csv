@@ -1,0 +1,8 @@
+Country,Mine count,Cumulative capacity,Total owners,Government Institution_count,Government Institution_share,Public Company_count,Public Company_share,Private Company_count,Private Company_share,Metal
+China,2,240.5,2,,,1.0,50.0,1.0,50.0,graphite
+Mozambique,1,57.9,2,1.0,50.0,1.0,50.0,,,graphite
+Brazil,2,39.0,2,,,,,2.0,100.0,graphite
+Norway,1,7.9,1,,,,,1.0,100.0,graphite
+Canada,1,7.8,1,,,1.0,100.0,,,graphite
+Madagascar,1,4.8,2,,,1.0,50.0,1.0,50.0,graphite
+Germany,1,0.5,1,,,1.0,100.0,,,graphite
